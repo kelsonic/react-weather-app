@@ -18,7 +18,9 @@ It should not be running on [localhost:8080](http://localhost:8080).
 
 ## Purpose
 
-To come...
+Discover real-time weather data for any city in the United States.
+
+<div style="box-shadow: 0 12px 15px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);"><a href="http://kelsonic.io" alt="Kelsonic Full Stack Web Developer"><center><img src="./readme_image.png" alt="Weathr Trackr" /></center></a></div>
 
 ## Credits
 
